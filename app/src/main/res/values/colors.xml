@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#90caf9</color>
+    <color name="colorhint">#90caf9</color>
+    <color name="transparent">#00000000</color>
+<!--<color name="black_alpha_40_for_createfeed_toolbar">#66000000</color> //This was for 40% black gradient from top-->
+    <color name="black_alpha_40_for_createfeed_toolbar">#00000000</color>
+</resources>

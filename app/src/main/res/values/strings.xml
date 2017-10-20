@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hola FlingDoubletapDemo</string>
+    <string name="register">Register</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">your-email@example.com</string>
+    <string name="password">Password</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_back_login">Login to your account</string>
+    <string name="create_account">Register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">All Notifications here</string>
+    <string name="hello_blank_fragment2">All chats here</string>
+    <string name="hello_blank_fragment3">Friends list here</string>
+    <string name="hello_blank_fragment4">Know what your friends are buzzing about</string>
+    <string name="hey_there_i_am_not_using_whatsapp">Hey there! I am not using Whatsapp.</string>
+    <string name="heading_of_your_post">Heading of your post</string>
+    <string name="write_post_or_leave_blank">Write post or leave blank</string>
+
+
+    <string-array name="examples">
+        <item>Communications. </item>
+        <item>Socialisations. </item>
+        <item></item>
+    </string-array>
+
+</resources>
